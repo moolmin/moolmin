@@ -25,9 +25,10 @@ HELLOOO🙇‍♀️ I'm Moolmin. I'm a practical-minded developer with a passio
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </div>
 <br />
 <br />
 <br />
 
-Copyright ⓒ startupcode yaro
+Copyright ⓒ moolmin
