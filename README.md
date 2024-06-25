@@ -1,20 +1,14 @@
 ## Sumin Kim (A.K.A Moolmin)
-HELLOOO🙇‍♀️ I'm Moolmin. I'm a practical-minded developer with a passion for writing code that tackles real-world problems, and armed with a determination that approaches the level of obsession when it comes to finding and implementing solutions. 
+
 <br />
 <br />
 <br />
 ## My values
-🧐 Perseverance: Willingness to tackle complex problems<br />
-👊 Passion: Having a genuine enthusiasm for coding<br />
-💡 Creativity: Thinking outside the box to find cretive solutions<br />
-<br />
+\
 <br />
 <br />
 ## How i work
-...
-<br />
-<br />
-<br />
+\
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
