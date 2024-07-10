@@ -2,11 +2,11 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/moolmin?pet-id=586800268205425114"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/moolmin"
+  width="600"
+  height="300"
+/>
 </a>
   
 
